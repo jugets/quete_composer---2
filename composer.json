@@ -1,0 +1,17 @@
+{
+    "name": "justine/quete",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "jugets",
+            "email": "justine.gets@posteo.net"
+        }
+    ],
+
+    
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },    
+
+    "require": {}
+}
